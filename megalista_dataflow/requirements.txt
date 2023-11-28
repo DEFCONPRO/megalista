@@ -4,7 +4,7 @@ google-api-python-client==2.81.0
 google-cloud-bigquery==3.3.0
 google-cloud-firestore==2.4.0
 google-cloud-storage==2.7.0
-aiohttp==3.8.5
+aiohttp==3.9.0
 # These packages are indirected dependencies.
 # Their versions are fixed here to improove resolution time.
 google_auth==2.16.2
